@@ -1,10 +1,11 @@
 # git-diffview
+
 A bash script to show the changes between two git paths as a treeview.
 
 ## Installation
 
 ```code
-sudo curl https://raw.githubusercontent.com/opicbernard/git-diffview/master/git-diffview -o /usr/local/bin/git-diffview
+sudo curl https://raw.githubusercontent.com/pivaldi/git-diffview/master/git-diffview -o /usr/local/bin/git-diffview
 ```
 
 ## Usage
